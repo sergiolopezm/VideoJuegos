@@ -1,0 +1,14 @@
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\bin\Debug\net6.0\Videojuegos.Infrastructura.deps.json
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\bin\Debug\net6.0\Videojuegos.Infrastructura.runtimeconfig.json
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\bin\Debug\net6.0\Videojuegos.Infrastructura.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\bin\Debug\net6.0\Videojuegos.Infrastructura.pdb
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.csproj.AssemblyReference.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.AssemblyInfoInputs.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.AssemblyInfo.cs
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.csproj.CoreCompileInputs.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\refint\Videojuegos.Infrastructura.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.pdb
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\Videojuegos.Infrastructura.genruntimeconfig.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Infrastructura\obj\Debug\net6.0\ref\Videojuegos.Infrastructura.dll

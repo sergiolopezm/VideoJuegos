@@ -1,0 +1,15 @@
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\bin\Debug\net6.0\Videojuegos.Dominio.deps.json
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\bin\Debug\net6.0\Videojuegos.Dominio.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\bin\Debug\net6.0\Videojuegos.Dominio.pdb
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.AssemblyInfoInputs.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.AssemblyInfo.cs
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\refint\Videojuegos.Dominio.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.pdb
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\ref\Videojuegos.Dominio.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\bin\Debug\net6.0\Videojuegos.Infrastructura.dll
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\bin\Debug\net6.0\Videojuegos.Infrastructura.pdb
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.csproj.AssemblyReference.cache
+C:\Users\sergio.lopez\source\repos\Videojuegos.Dominio\obj\Debug\net6.0\Videojuegos.Dominio.csproj.CopyComplete
